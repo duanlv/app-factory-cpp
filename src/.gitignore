@@ -1,0 +1,9 @@
+/.deps
+/tags
+
+*.o
+main
+
+Makefile
+Makefile.in
+*.o

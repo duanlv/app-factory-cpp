@@ -1,0 +1,30 @@
+
+# Ignore autoconf and automake
+# output
+/aclocal.m4
+/ar-lib
+/autom4te.cache/
+/config.guess
+/config.log
+/config.status
+/config.sub
+/configure
+/depcomp
+/install-sh
+/libtool
+/ltmain.sh
+/m4/
+/missing
+/compile
+/test-driver
+ 
+Makefile
+Makefile.in
+lib/ctest/.deps/
+lib/ctest/.libs/
+lib/ctest/ctest1.lo
+lib/ctest/ctest1.o
+lib/ctest/ctest2.lo
+lib/ctest/ctest2.o
+lib/ctest/libctest.la
+.vscode
